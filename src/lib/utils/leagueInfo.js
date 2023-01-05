@@ -49,7 +49,7 @@ export const managers = [
     },
     {
       "roster": 2,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-      "name": "robocop630",
+      "name": "Robert Osorio",
       "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Cleveland, OH", // (optional)
       "bio": "Lorem ipsum...",
@@ -71,7 +71,7 @@ export const managers = [
     },
     {
       "roster": 3,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-      "name": "The mules",
+      "name": "Terry Mullally",
       "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Cleveland, OH", // (optional)
       "bio": "Lorem ipsum...",
@@ -93,7 +93,7 @@ export const managers = [
     },
     {
       "roster": 4,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-      "name": "Cobra Kai",
+      "name": "Jose Velez",
       "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Cleveland, OH", // (optional)
       "bio": "Lorem ipsum...",
@@ -115,7 +115,7 @@ export const managers = [
     },
     {
       "roster": 5,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-      "name": "BV2022",
+      "name": "Ben Vitanye",
       "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Cleveland, OH", // (optional)
       "bio": "Lorem ipsum...",
